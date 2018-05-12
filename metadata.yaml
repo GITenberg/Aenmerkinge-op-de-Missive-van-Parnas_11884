@@ -1,5 +1,8 @@
 _repo: Aenmerkinge-op-de-Missive-van-Parnas_11884
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -11,6 +14,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
 description: Though signed "Hugo de Groot" (1583-1645), this work from 1685 is by
   an anonymous writer using Hugo de Groot as a pseudonym.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11884#Aenmerkinge-op-de-Missive-van-Parnas
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
